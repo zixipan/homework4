@@ -177,7 +177,7 @@ header p{
   /*Your code here */
   /* See documentation for desktop view */
     grid-template-columns:  50px auto 500px auto 50px;
-    grid-row: 70px repeat(5,400px) 100px;
+    grid-template-rows: 70px repeat(5,400px) 100px;
   }
 
   nav{
